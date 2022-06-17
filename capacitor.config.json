@@ -1,0 +1,13 @@
+{
+  "appId": "com.sapora.code.cheatcode.programming.competitive",
+  "appName": "CheatCode",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}

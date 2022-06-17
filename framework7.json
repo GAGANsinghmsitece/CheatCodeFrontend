@@ -1,0 +1,28 @@
+{
+  "cwd": "/home/gagan/Projects/hybrid/cheatcodefrontend",
+  "type": [
+    "web",
+    "pwa",
+    "capacitor"
+  ],
+  "name": "CheatCode",
+  "pkg": "com.sapora.code.cheatcode.programming.competitive",
+  "framework": "react",
+  "template": "blank",
+  "cssPreProcessor": "scss",
+  "bundler": "vite",
+  "capacitor": {
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkTheme": false,
+    "iconFonts": true,
+    "fillBars": false
+  },
+  "customBuild": false
+}
