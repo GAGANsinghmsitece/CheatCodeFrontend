@@ -14,7 +14,7 @@ const HomePage = () => (
     {/* Top Navbar */}
     <Navbar large>
       <NavTitle>CheatCode</NavTitle>
-      <NavTitleLarge>CheatCode</NavTitleLarge>
+      <NavTitleLarge>CheatCode Frontend</NavTitleLarge>
     </Navbar>
     {/* Toolbar */}
     <Toolbar bottom>
